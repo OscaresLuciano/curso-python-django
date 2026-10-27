@@ -1,0 +1,14 @@
+(venv) PS G:\Cursos\curso-python-coderhouse\mi_proyecto\practicas> python evidencia_post.py
+--- REPORTE DE SISTEMA ---
+Post: Mi primer post en Python
+Autor: Tu Nombre
+Estado: Entorno configurado correctamente
+--------------------------
+(venv) PS G:\Cursos\curso-python-coderhouse\mi_proyecto\practicas> python evidencia_post.py
+
+Archivos en carpeta Proyecto:
+- Carpeta mi_proyecto/practicas: ejercicio1.py, ejercicio2.py, evidencia_post.py
+- venv
+- checkpoint_modulo1.txt
+
+El entorno virtual estaba activo al momento de hacer la prueba
