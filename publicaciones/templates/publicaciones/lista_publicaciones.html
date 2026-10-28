@@ -1,0 +1,9 @@
+{% extends 'publicaciones/base.html' %} {% block title %} Publicaciones {%
+endblock %} {% block conntent %}
+<h2>Listado de Publicaciones</h2>
+<ul>
+  {% for publicaciones in publicacion %}
+  <li>{{publicacion.titulo}} | {{publicacion.autor}}</li>
+  {% endfor %}
+</ul>
+{% endblock %}
